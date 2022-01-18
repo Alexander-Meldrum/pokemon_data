@@ -2,7 +2,7 @@
 Analyzing the pokemon dataset from:
 https://www.kaggle.com/abcsds/pokemon
 
-Skill Keywords: Data Cleaning, Python(Pandas, Matplotlib/Seaborn, Numpy), Exploratory data analysis (Bivariate analysis)
+Skill Keywords: Python(Jupyter, Pandas, Matplotlib/Seaborn, Numpy), Data Cleaning, Exploratory data analysis (Bivariate analysis)
 
 Questions asked:
 # 1. Do the stats of each pokemon generation inflate? Are generations balanced against eachother?
